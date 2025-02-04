@@ -1,0 +1,6 @@
+--Connect Projector to Laptop/Computer
+--Open Folder on any IDE like VS Code
+--On Terminal execute command : python main.py 
+--Application window will be projected 
+   1. Click On Calibrate to get 4 corner points of projected window
+   2. Click On Play Button to Play Balloon Game (Use Ball to burst those projected balloon)
